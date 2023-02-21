@@ -40,7 +40,6 @@ Remplacez tous les fichiers du dossier des exécutables par ceux du dossier de l
 
 ## Toutes les fonctionnalités
 
-
 ### Recherche rapide
 - `Ctrl`+`F` : Met la focalisation sur la barre de filtre (et préselectionne tout le texte)
 - `Alt`+`F` : Idem 
@@ -87,19 +86,17 @@ Remplacez tous les fichiers du dossier des exécutables par ceux du dossier de l
 ### Synonymie (à la recherche)
 Vous pouvez configurer une liste de groupes de synonymes dans un fichier texte. Cela permet de chercher un terme avec un de ses synonymes à la place.  
 Le chemin du fichier text est défini dans la valeur de `synonymsFilePath` dans le fichier de configuration  
-Appuyez sur le bouton Rafraîchir pour que l'appli prenne en compte une modification récente de vos synonymes.  
+Normalement, les modifications faites au fichier de synonymes sont immédiatement prises en compte.
 
 ### Cacher des notes dans la grille
 Ajouter `[hidden]` dans le nom d'une note la rend invisible dans la grille sauf si vous entrez entièrement `[hidden]` dans la barre de filtre  
 
 ### Notes sous forme d'image
 Les notes sous forme d'image (png, jpg, bmp) peuvent être affichées et renommées, mais ne peuvente être ajoutées par LKB, elles doivent être ajoutées au dossier des notes par d'autres moyens.  
-:warning: Penser à rafraîchir les notes avec le bouton dédié lorsque nécessaire.
 
 ### Les boutons personnalisables (éclair et œil)
 
 Par défaut, ces boutons ouvrent la note sous forme de fichier avec l'application par défaut configurée dans votre système d'exploitation.  
-Attention, si vous modifiez une note par un moyen extérieur à LKB, pour en voir l'effet dans LKB il faut appuyer sur "rafraîchir" (pour le moment en tout cas) !
 
 #### Le bouton "éclair" jaune
 
